@@ -1,5 +1,9 @@
 # Fuse
-A common interface to PBS Pro, Torque and Slurm.
+A RESTful interface to PBS Pro.
+
+## Synopsis
+
+    fuse -d /path/to/routes.json
 
 # License
 MIT
